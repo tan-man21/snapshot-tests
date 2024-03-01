@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="App"
+>
+  <img
+    alt="logo"
+    className="App-logo"
+    src="logo.svg"
+  />
+  <div
+    className="card"
+    style={
+      Object {
+        "width": "18rem",
+      }
+    }
+  >
+    <img
+      className="card-img-top"
+      src=""
+    />
+    <div
+      className="card-body"
+    >
+      <div
+        className="card-title h5"
+      />
+      <p
+        className="card-text"
+      >
+        This should be the bio!
+      </p>
+    </div>
+  </div>
+</div>
+`;
